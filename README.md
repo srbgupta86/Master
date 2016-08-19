@@ -5,3 +5,4 @@ Test 2
 Test 4
 Test 3
 branch1
+branch2
